@@ -1,0 +1,8 @@
+{
+  "name": "Talim - Kushti Training Centers",
+  "description": "Discover and add traditional Indian wrestling (Kushti) training centers (Talims) across Maharashtra and beyond.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
